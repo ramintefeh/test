@@ -3,3 +3,5 @@ second line
 third line
 new line in test file
 test test test
+6. line
+7. line
